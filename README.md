@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Protect Loader<br>🌱 I’m currently learning Golang<br>💬 Ask me about anything i will try to help you 
+🔭 I’m currently working on Protect Loader<br>🌱 I’m currently learning Golang<br>💬 Ask me about anything i will try to help you
+
+![](https://komarev.com/ghpvc/?username=furax124)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1137723560593465405)](https://discord.com/users/1137723560593465405)
 # 💻 Tech Stack:
