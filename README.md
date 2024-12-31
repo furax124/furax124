@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Protect Loader<br>🌱 I’m currently learning Golang<br>💬 Ask me about anything i will try to help you
+🔭 I’m currently working on Protect Loader<br>🌱 I’m currently learning Golang<br>💬 Ask me about anything i will try to help you 
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1137723560593465405)](https://discord.com/users/1137723560593465405)
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 # 📊 GitHub Stats:
