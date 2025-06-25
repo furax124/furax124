@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Protect Loader<br>🌱 I’m currently learning Golang<br>💬 Ask me about anything i will try to help you
+🔭 I’m currently working on Protect Loader<br>🌱 I’m currently learning Golang,C++(its hard ngl)<br>💬 Ask me about anything i will try to help you
 
 ![](https://komarev.com/ghpvc/?username=furax124)
 
