@@ -16,8 +16,3 @@
 </details>
 
 <details>
-<summary>🔝 Top Contributed Repo</summary>
-  
-![](https://github-readme-stats-jet-mu-34.vercel.app/api?username=furax124&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
-</details>
