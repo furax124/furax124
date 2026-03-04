@@ -14,5 +14,3 @@
 ![](https://github-readme-stats-jet-mu-34.vercel.app/api/top-langs/?username=furax124&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
-
-<details>
