@@ -11,8 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=furax124&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats-jet-mu-34.vercel.app/api/top-langs/?username=furax124&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-readme-stats-jet-mu-34.vercel.app/?username=furax124&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-readme-stats-jet-mu-34.vercel.app/api?username=furax124&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
